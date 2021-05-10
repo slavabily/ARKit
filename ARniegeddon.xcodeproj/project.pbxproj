@@ -22,6 +22,7 @@
 		8297D50C1F34836D00C42D1F /* win.wav in Resources */ = {isa = PBXBuildFile; fileRef = 8297D5051F34836C00C42D1F /* win.wav */; };
 		8297D5121F3487F700C42D1F /* Types.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8297D5111F3487F700C42D1F /* Types.swift */; };
 		F9DCD74126485E9900A3C546 /* Level1.sks in Resources */ = {isa = PBXBuildFile; fileRef = F9DCD74026485E9900A3C546 /* Level1.sks */; };
+		F9DCD7442649116300A3C546 /* Anchor.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9DCD7432649116300A3C546 /* Anchor.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,6 +43,7 @@
 		8297D5051F34836C00C42D1F /* win.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = win.wav; sourceTree = "<group>"; };
 		8297D5111F3487F700C42D1F /* Types.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Types.swift; sourceTree = "<group>"; };
 		F9DCD74026485E9900A3C546 /* Level1.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level1.sks; sourceTree = "<group>"; };
+		F9DCD7432649116300A3C546 /* Anchor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Anchor.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				828897721F33F3920035005F /* GameScene.swift */,
 				F9DCD74026485E9900A3C546 /* Level1.sks */,
 				8297D5111F3487F700C42D1F /* Types.swift */,
+				F9DCD7432649116300A3C546 /* Anchor.swift */,
 				828897761F33F3930035005F /* Main.storyboard */,
 				828897791F33F3930035005F /* Assets.xcassets */,
 				8297D4FE1F34836C00C42D1F /* Sounds */,
@@ -184,6 +187,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				828897731F33F3920035005F /* GameScene.swift in Sources */,
+				F9DCD7442649116300A3C546 /* Anchor.swift in Sources */,
 				828897751F33F3930035005F /* GameViewController.swift in Sources */,
 				8288976D1F33F3920035005F /* AppDelegate.swift in Sources */,
 				8297D5121F3487F700C42D1F /* Types.swift in Sources */,
